@@ -16,7 +16,7 @@ GameObject:
   - 208: {fileID: 20888316}
   - 114: {fileID: 11447996}
   m_Layer: 0
-  m_Name: 'ColdCell '
+  m_Name: ColdCell
   m_TagString: Unit
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
